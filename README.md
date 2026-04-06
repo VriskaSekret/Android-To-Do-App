@@ -1,4 +1,4 @@
 # Android-To-Do-App
-Created following the [Android Knowledge Tutorial](https://www.youtube.com/watch?v=VvRmNQ7ar3A)
+Created following the [Code With Cal To-Do App Tutorial](https://youtube.com/playlist?list=PLnQbggnVfvo2dHawJtYVfvAN18NKBKuRD)
 # Tech Stack
 Kotlin, Jetpack Compose, Room Database, Android
